@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.exe
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.deps.json
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.dll
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\bin\Debug\netcoreapp3.1\movie.pdb
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.dll
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.pdb
+C:\Users\opilane\source\repos\logitpe21\FunctionsWithArrays\movie\obj\Debug\netcoreapp3.1\movie.genruntimeconfig.cache
